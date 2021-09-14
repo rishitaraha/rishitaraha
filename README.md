@@ -22,7 +22,7 @@
 
 
 ## &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishita2605&show_icons=true&theme=radical&layout=compact" height=190 align="center"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rishita2605&count_private=true&include_all_commits=true&theme=radical" height=190 align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishita2605&show_icons=true&theme=radical&layout=compact" height=180 align="center"/><img src="https://github-readme-stats.vercel.app/api?username=rishita2605&count_private=true&include_all_commits=true&theme=radical" height=180 align="center"/>
 
 
 ## Connect With Me
