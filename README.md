@@ -48,3 +48,5 @@
 <!--*******************************My customised theme************************************-->
 
 <!--![Rishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishita2605&count_private=true&include_all_commits=true&show_icons=true&border_radius=10&bg_color=145,ff6e7f,ee9ca7&title_color=ffffff&border_color=0D1117&text_color=2a0845&icon_color=ffffff)-->
+![AdinoGrahami](https://user-images.githubusercontent.com/64982040/135077771-892176ff-f0c5-4c31-98b9-5a535af541bb.png)
+
