@@ -26,7 +26,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=wyvern&theme=radical)](https://github.com/rishita2605/Wyvern)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=zeta&theme=radical)](https://github.com/rishita2605/Zeta)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=portfolio-website&theme=radical)](https://github.com/rishita2605/Portfolio-Website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=Captain-Sem-s-Comics&theme=radical)](https://github.com/rishita2605/Captain-Sem-s-Comics)
 
 
 ## Summary
