@@ -1,5 +1,5 @@
 # Hello, folks! I am Rishita. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<b>Computer Science Engineering student in CMR Institute of Technology || Intern at GrouPot || Bangalore</b>
+<b>Bangalore • India</b>
 
 ![](https://komarev.com/ghpvc/?username=rishita2605&color=dc143c&style=flat)
 
