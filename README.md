@@ -25,9 +25,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=covid-19-forecast-and-analysis&theme=radical)](https://github.com/rishita2605/Covid-19-Forecast-and-Analysis)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=wyvern&theme=radical)](https://github.com/rishita2605/Wyvern)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=movie-location&theme=radical)](https://github.com/rishita2605/movie-location)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=Captain-Sem-s-Comics&theme=radical)](https://github.com/rishita2605/Captain-Sem-s-Comics)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=Captain-Sem-s-Comics&theme=radical)](https://github.com/rishita2605/Captain-Sem-s-Comics)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=movie-location&theme=radical)](https://github.com/rishita2605/movie-location)
 
 ## Summary
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishita2605&show_icons=true&theme=radical&layout=compact" height=180 align="center"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rishita2605&count_private=true&include_all_commits=false&theme=radical" height=180 align="center"/>
