@@ -45,7 +45,7 @@
 
 
 <!--text_color=480048& title_color=0D11145,ff6e7f,ee9ca7)-->
-<!--*******************************My customised theme************************************-->
+<!--*******************************My customised theme**********************************-->
 
 <!--![Rishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishita2605&count_private=true&include_all_commits=true&show_icons=true&border_radius=10&bg_color=145,ff6e7f,ee9ca7&title_color=ffffff&border_color=0D1117&text_color=2a0845&icon_color=ffffff)-->
 <!--Images online hosting-->
