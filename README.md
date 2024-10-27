@@ -10,7 +10,7 @@
 ## Tech Stack
 <img src="https://user-images.githubusercontent.com/64982040/132742949-538911f5-25a3-4fbc-a180-704f5b3ecbf1.png" height=30 align="center"/> &nbsp; **Programming Languages**
 
-![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&labelColor=dc143c&color=ff6e7f&logoColor=ffffff) &nbsp; ![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&labelColor=dc143c&color=ff6e7f&logoColor=ffffff)  &nbsp; ![](https://img.shields.io/badge/C_Programming-informational?style=for-the-badge&logo=c&labelColor=dc143c&color=ff6e7f&logoColor=ffffff)
+![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&labelColor=dc143c&color=ff6e7f&logoColor=ffffff)  &nbsp; ![](https://img.shields.io/badge/C_Programming-informational?style=for-the-badge&logo=c&labelColor=dc143c&color=ff6e7f&logoColor=ffffff)
 
 <img src="https://user-images.githubusercontent.com/64982040/132745673-030241b8-4b9b-469e-a85c-5a5dc97af8a1.png" height=30 align="center"/> &nbsp; **Web Development**
 
