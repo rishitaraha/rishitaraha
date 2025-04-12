@@ -1,7 +1,7 @@
 # Hello, folks! I am Rishita. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <b>Bangalore • India</b>
 
-![](https://komarev.com/ghpvc/?username=rishita2605&color=dc143c&style=flat)
+![](https://komarev.com/ghpvc/?username=rishitaraha&color=dc143c&style=flat)
 
 <p>I love adding micro-animations to websites to enhance usability and bringing mock-ups to life using HTML, CSS, JavaScript and other frameworks/libraries.</p>
 <p>Currently learning more about front-end technologies and how to build an efficient website.</p>
@@ -22,14 +22,14 @@
 
 <!--## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=covid-19-forecast-and-analysis&theme=radical)](https://github.com/rishita2605/Covid-19-Forecast-and-Analysis)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=wyvern&theme=radical)](https://github.com/rishita2605/Wyvern)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishitaraha&repo=covid-19-forecast-and-analysis&theme=radical)](https://github.com/rishitaraha/Covid-19-Forecast-and-Analysis)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishitaraha&repo=wyvern&theme=radical)](https://github.com/rishitaraha/Wyvern)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=Captain-Sem-s-Comics&theme=radical)](https://github.com/rishita2605/Captain-Sem-s-Comics)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishita2605&repo=movie-location&theme=radical)](https://github.com/rishita2605/movie-location) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishitaraha&repo=Captain-Sem-s-Comics&theme=radical)](https://github.com/rishitaraha/Captain-Sem-s-Comics)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishitaraha&repo=movie-location&theme=radical)](https://github.com/rishitaraha/movie-location) -->
 
 ## Summary
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishita2605&show_icons=true&theme=radical&layout=compact" height=180 align="center"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rishita2605&count_private=true&include_all_commits=false&theme=radical" height=180 align="center"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitaraha&show_icons=true&theme=radical&layout=compact" height=180 align="center"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rishitaraha&count_private=true&include_all_commits=false&theme=radical" height=180 align="center"/> 
 
 
 ## Connect With Me
@@ -40,13 +40,13 @@
 
 [1]: https://www.linkedin.com/in/rishita-raha/
 [2]: https://twitter.com/RahaRishita
-[3]: https://codepen.io/Rishita2605
+[3]: https://codepen.io/rishitaraha
 
 
 <!--text_color=480048& title_color=0D11145,ff6e7f,ee9ca7)-->
 <!--*******************************My customised theme*********************************-->
 
-<!--![Rishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishita2605&count_private=true&include_all_commits=true&show_icons=true&border_radius=10&bg_color=145,ff6e7f,ee9ca7&title_color=ffffff&border_color=0D1117&text_color=2a0845&icon_color=ffffff)-->
+<!--![Rishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishitaraha&count_private=true&include_all_commits=true&show_icons=true&border_radius=10&bg_color=145,ff6e7f,ee9ca7&title_color=ffffff&border_color=0D1117&text_color=2a0845&icon_color=ffffff)-->
 <!--Images online hosting-->
 <!-- ![AdinoGrahami](https://user-images.githubusercontent.com/64982040/135077771-892176ff-f0c5-4c31-98b9-5a535af541bb.png) -->
 <!-- ![SecondaryLogo-transparent](https://user-images.githubusercontent.com/64982040/152486676-bf03d561-c801-4625-ba46-80d25918d2d2.png) -->
@@ -59,16 +59,16 @@
 <!-- Host Videos / Images -->
 
 <!--heap list-->
-<!-- https://github.com/rishita2605/rishita2605/assets/64982040/7b57d88e-cf6d-44e3-8c32-661a702eba82 --> 
+<!-- https://github.com/rishitaraha/rishitaraha/assets/64982040/7b57d88e-cf6d-44e3-8c32-661a702eba82 --> 
 
 <!--fe optimisation-->
-<!-- https://github.com/rishita2605/rishita2605/assets/64982040/6d336d63-8c60-4d56-b8ed-9d97cadf24e9 -->
+<!-- https://github.com/rishitaraha/rishitaraha/assets/64982040/6d336d63-8c60-4d56-b8ed-9d97cadf24e9 -->
 
 <!--indented tree-->
-<!-- https://github.com/rishita2605/rishita2605/assets/64982040/db17f92f-a658-4a13-87bf-0b3de8078414 -->
+<!-- https://github.com/rishitaraha/rishitaraha/assets/64982040/db17f92f-a658-4a13-87bf-0b3de8078414 -->
 
 <!--toolbox-->
-<!-- https://github.com/rishita2605/rishita2605/assets/64982040/fe2680f7-8fd5-4a51-a713-09bd69352b33 -->
+<!-- https://github.com/rishitaraha/rishitaraha/assets/64982040/fe2680f7-8fd5-4a51-a713-09bd69352b33 -->
 
 
 
